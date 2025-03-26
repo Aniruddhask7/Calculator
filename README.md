@@ -28,4 +28,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/frontend-project.git
+   https://github.com/Aniruddhask7
+   
